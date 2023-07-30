@@ -1,0 +1,3 @@
+Hello, this the the first file of second folder Scmfile1 
+i am editting using vi editor
+
