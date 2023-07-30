@@ -1,0 +1,2 @@
+Hello forming new file file4 for using git add . command
+
